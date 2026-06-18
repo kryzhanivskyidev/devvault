@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+const posts = (await getCollection('posts')).sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
+---
+<BaseLayout title="Developer Tools, AI & Security Reviews">
+
+  <section class="hero">
+    <div class="container hero-inner">
+      <div class="hero-badge">For developers, by developers</div>
+      <h1 class="hero-title">The best tools for <span class="highlight">modern devs</span> — honestly reviewed</h1>
+      <p class="hero-sub">AI tools, VPNs, password managers, crypto platforms. No fluff, no vendor BS. Just what actually works.</p>
+    </div>
+  </section>
+
+  <section class="categories-bar">
+    <div class="container">
+      <div class="cat-grid">
+        {[
+          { slug: 'ai-tools', icon: '🤖', label: 'AI Tools' },
+          { slug: 'security', icon: '🔐', label: 'Security' },
+          { slug: 'crypto', icon: '₿', label: 'Crypto' },
+          { slug: 'finance', icon: '💰', label: 'Finance' },
+        ].map(c => (
+          <a href={`/categories/${c.slug}`} class="cat-chip">
+            <span>{c.icon}</span> {c.label}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="posts-section">
+    <div class="container">
+      <h2 class="section-title">Latest Reviews</h2>
+      <div class="posts-grid">
+        {posts.map(post => (
+          <article class="post-card">
+            <div class="post-card-meta">
+              <span class="post-tag">{post.data.category}</span>
+              <span class="post-date">{new Date(post.data.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
+            </div>
+            <h2 class="post-card-title"><a href={`/posts/${post.slug}`}>{post.data.title}</a></h2>
+            <p class="post-card-excerpt">{post.data.excerpt}</p>
+            <div class="post-card-footer">
+              <span class="read-time">{post.data.readTime} min read</span>
+              <a href={`/posts/${post.slug}`} class="read-more">Read →</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>

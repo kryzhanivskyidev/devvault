@@ -1,0 +1,52 @@
+---
+const { title, description = 'Dev tools, AI, security — reviewed for developers.' } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content={description} />
+  <title>{title} | DevVault</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300..700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles/global.css" />
+  <link rel="stylesheet" href="/styles/components.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="/" class="logo">
+        <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-label="DevVault logo">
+          <rect width="28" height="28" rx="6" fill="#58a6ff" fill-opacity="0.15"/>
+          <path d="M7 10L12 14L7 18" stroke="#58a6ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M15 18H21" stroke="#3fb950" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <span>DevVault</span>
+      </a>
+      <nav class="site-nav">
+        <a href="/categories/ai-tools">AI Tools</a>
+        <a href="/categories/security">Security</a>
+        <a href="/categories/crypto">Crypto</a>
+        <a href="/categories/finance">Finance</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p class="footer-disclaimer">
+        DevVault contains affiliate links. When you buy through our links, we may earn a commission — at no extra cost to you. We only recommend tools we'd use ourselves.
+      </p>
+      <p class="footer-copy">© {new Date().getFullYear()} DevVault.io</p>
+    </div>
+  </footer>
+
+</body>
+</html>

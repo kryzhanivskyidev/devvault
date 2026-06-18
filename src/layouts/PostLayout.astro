@@ -1,0 +1,29 @@
+---
+import BaseLayout from './BaseLayout.astro';
+const { frontmatter } = Astro.props;
+---
+<BaseLayout title={frontmatter.title} description={frontmatter.excerpt}>
+  <article class="post-layout container">
+    <header class="post-header">
+      <div class="post-meta-top">
+        <a href={`/categories/${frontmatter.category.toLowerCase().replace(' ', '-')}`} class="post-tag">
+          {frontmatter.category}
+        </a>
+        <span class="post-date">{new Date(frontmatter.date).toLocaleDateString('en-US', { dateStyle: 'long' })}</span>
+        <span class="read-time">{frontmatter.readTime} min read</span>
+      </div>
+      <h1 class="post-title">{frontmatter.title}</h1>
+      <p class="post-excerpt">{frontmatter.excerpt}</p>
+    </header>
+
+    <div class="post-body prose">
+      <slot />
+    </div>
+
+    <footer class="post-footer">
+      <p class="affiliate-notice">
+        ⚡ This article contains affiliate links. We earn a small commission if you purchase — thank you for supporting DevVault!
+      </p>
+    </footer>
+  </article>
+</BaseLayout>
