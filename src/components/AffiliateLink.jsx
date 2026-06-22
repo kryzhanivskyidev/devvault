@@ -1,11 +1,11 @@
 import { useState } from 'react';
 
 const AFFILIATE_LINKS = {
-  nordvpn:   { url: 'https://go.nordvpn.net/YOUR_REF', label: 'NordVPN',   commission: '100% + 30%/mo' },
+  nordvpn:   { url: 'https://go.nordvpn.net/aff_c?offer_id=15&aff_id=150887&url_id=902', label: 'NordVPN',   commission: '100% + 30%/mo' },
   surfshark: { url: 'https://surfshark.com/?ref=YOUR',  label: 'Surfshark', commission: '40%/mo' },
   notion:    { url: 'https://notion.so/?ref=YOUR',      label: 'Notion',    commission: '50% x12mo' },
   jasper:    { url: 'https://jasper.ai/?ref=YOUR',      label: 'Jasper AI', commission: '30%/mo' },
-  make:      { url: 'https://make.com/?ref=YOUR',       label: 'Make.com',  commission: '30%/mo' },
+  make:      { url: 'https://www.make.com/en/register?pc=devvault',       label: 'Make.com',  commission: '30%/mo' },
   bitwarden: { url: 'https://bitwarden.com/?ref=YOUR',  label: 'Bitwarden', commission: '25%/mo' },
 };
 
