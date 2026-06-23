@@ -1,7 +1,8 @@
 ---
 title: "Best VPNs for Developers in 2026"
 description: "SSH tunnels, remote work, API testing, geo-restrictions — developers need more from a VPN. Here's what actually works."
-date: 2026-06-25
+date: "2026-06-25"
+excerpt: "SSH tunnels, remote work, API testing, geo-restrictions — developers need more from a VPN. Here's what actually works."
 category: security
 readTime: 9
 ---

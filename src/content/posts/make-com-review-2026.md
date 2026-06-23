@@ -1,7 +1,8 @@
 ---
 title: "Make.com Review 2026: Is It Worth It for Developers?"
 description: "We used Make.com on real production projects for 3 months. Here's the honest verdict — pricing, limits, and when to use it."
-date: 2026-06-24
+date: "2026-06-24"
+excerpt: "We used Make.com on real production projects for 3 months. Here's the honest verdict — pricing, limits, and when to use it."
 category: ai-tools
 readTime: 8
 ---
