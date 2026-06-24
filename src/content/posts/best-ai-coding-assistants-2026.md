@@ -2,7 +2,7 @@
 title: "Best AI Coding Assistants in 2026: Claude vs Copilot vs Cursor"
 excerpt: "We used all three daily for 2 months on real production projects. Here's which one actually makes you faster."
 date: "2026-06-15"
-category: "AI Tools"
+category: "ai tools"
 readTime: 10
 tags: ["ai", "coding", "productivity", "tools"]
 ---

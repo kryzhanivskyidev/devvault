@@ -2,7 +2,7 @@
 title: "Best Password Managers for Developers in 2026"
 excerpt: "SSH keys, API tokens, database passwords, .env files — developers have a unique security burden. Here's what actually helps."
 date: "2026-06-10"
-category: "Security"
+category: security
 readTime: 7
 tags: ["security", "passwords", "tools", "ssh"]
 ---
