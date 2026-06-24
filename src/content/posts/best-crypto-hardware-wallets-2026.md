@@ -31,7 +31,7 @@ Ledger supports the most coins (5500+), has Bluetooth for mobile use, and the Le
 
 **Who should buy it:** Anyone who holds a diverse portfolio (ETH, SOL, ERC-20 tokens) and wants one device for everything.
 
-👉 [Buy Ledger Nano X — official store](https://shop.ledger.com/?ref=devvault) *(affiliate)*
+👉 [Buy Ledger Nano X — official store](https://shop.ledger.com/?r=b144e14f950c) *(affiliate)*
 
 ---
 

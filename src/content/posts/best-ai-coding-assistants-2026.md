@@ -39,7 +39,7 @@ Copilot lives inside your editor invisibly. It doesn't interrupt your flow — s
 
 **Price:** $10/mo individual, $19/mo business.
 
-👉 [Try GitHub Copilot — first 30 days free](https://github.com/features/copilot?ref=devvault) *(affiliate)*
+👉 [Try GitHub Copilot — first 30 days free](https://github.com/features/copilot)
 
 ---
 
@@ -58,7 +58,7 @@ Cursor is a VS Code fork with AI deeply embedded. You can select code, hit Cmd+K
 
 **Price:** $20/mo (includes Claude and GPT-4o calls)
 
-👉 [Try Cursor free for 2 weeks](https://cursor.sh/?ref=devvault) *(affiliate)*
+👉 [Try Cursor free for 2 weeks](https://cursor.sh/)
 
 ---
 
@@ -78,7 +78,7 @@ Claude isn't an IDE plugin — it's a conversation. But with a 200k token contex
 
 **Price:** Claude.ai Pro is $20/mo. API usage varies.
 
-👉 [Get Claude Pro](https://claude.ai?ref=devvault) *(affiliate)*
+👉 [Get Claude Pro](https://claude.ai)
 
 ---
 

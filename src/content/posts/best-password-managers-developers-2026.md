@@ -72,7 +72,7 @@ AWS_SECRET=op://AWS/main/secret_access_key
 
 **Price:** $3/mo individual, $5/mo families (covers 5 people).
 
-👉 [Try 1Password free for 14 days](https://1password.com/?ref=devvault) *(affiliate)*
+👉 [Try 1Password free for 14 days](https://1password.com/)
 
 ---
 
