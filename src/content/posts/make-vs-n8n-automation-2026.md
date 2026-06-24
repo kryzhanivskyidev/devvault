@@ -2,7 +2,7 @@
 title: "Make.com vs n8n in 2026: Which Automation Tool for Developers?"
 excerpt: "Both automate your workflows without code. But they're built for different people. Here's the honest comparison."
 date: "2026-06-05"
-category: "ai tools"
+category: "ai-tools"
 readTime: 9
 tags: ["automation", "no-code", "n8n", "make", "tools"]
 ---
