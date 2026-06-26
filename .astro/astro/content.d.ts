@@ -176,9 +176,30 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"how-to-secure-your-crypto-2026.md": {
+	id: "how-to-secure-your-crypto-2026.md";
+  slug: "how-to-secure-your-crypto-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"ledger-nano-s-plus-vs-nano-x-2026.md": {
+	id: "ledger-nano-s-plus-vs-nano-x-2026.md";
+  slug: "ledger-nano-s-plus-vs-nano-x-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "ledger-review-2026.md": {
 	id: "ledger-review-2026.md";
   slug: "ledger-review-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"ledger-setup-guide-2026.md": {
+	id: "ledger-setup-guide-2026.md";
+  slug: "ledger-setup-guide-2026";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">

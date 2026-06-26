@@ -2,7 +2,7 @@
 title: "Best Crypto Hardware Wallets in 2026: Ledger vs Trezor vs Coldcard"
 excerpt: "Keeping serious crypto on an exchange is a risk you shouldn't take. Here's which hardware wallet to buy depending on your setup."
 date: "2026-06-01"
-category: "Crypto"
+category: "crypto"
 readTime: 8
 tags: ["crypto", "bitcoin", "security", "hardware-wallet"]
 ---

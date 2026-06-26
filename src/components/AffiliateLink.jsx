@@ -3,8 +3,8 @@ import { useState } from 'react';
 const AFFILIATE_LINKS = {
   nordvpn:   { url: 'https://go.nordvpn.net/aff_c?offer_id=15&aff_id=150887&url_id=902', label: 'NordVPN',   commission: '100% + 30%/mo' },
   make:      { url: 'https://www.make.com/en/register?pc=devvault',       label: 'Make.com',  commission: '30%/mo' },
-
   ledger:    { url: 'https://shop.ledger.com/?r=b144e14f950c',      label: 'Ledger',    commission: '50EUR/2 orders' },
+
 
   surfshark: { url: 'https://surfshark.com/?ref=YOUR',  label: 'Surfshark', commission: '40%/mo' },
 
