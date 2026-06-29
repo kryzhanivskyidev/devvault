@@ -176,9 +176,37 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"changenow-review-2026.md": {
+	id: "changenow-review-2026.md";
+  slug: "changenow-review-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"deploy-app-digitalocean-2026.md": {
+	id: "deploy-app-digitalocean-2026.md";
+  slug: "deploy-app-digitalocean-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"digitalocean-vs-aws-vs-vercel-2026.md": {
+	id: "digitalocean-vs-aws-vs-vercel-2026.md";
+  slug: "digitalocean-vs-aws-vs-vercel-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "how-to-secure-your-crypto-2026.md": {
 	id: "how-to-secure-your-crypto-2026.md";
   slug: "how-to-secure-your-crypto-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"how-to-swap-crypto-without-kyc-2026.md": {
+	id: "how-to-swap-crypto-without-kyc-2026.md";
+  slug: "how-to-swap-crypto-without-kyc-2026";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
