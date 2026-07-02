@@ -20,7 +20,7 @@ Need to swap crypto without KYC? Two of the most popular options in 2026 are **C
 
 | Feature | ChangeNOW | SimpleSwap |
 |---|---|---|
-| **Supported coins** | 850+ | 700+ |
+| **Supported coins** | 1300+ | 700+ |
 | **KYC required** | No | No |
 | **Swap speed** | 2–20 min | 5–30 min |
 | **Fixed rate** | ✅ | ✅ |
@@ -33,7 +33,7 @@ Need to swap crypto without KYC? Two of the most popular options in 2026 are **C
 
 ## Supported Coins
 
-**ChangeNOW** supports 850+ cryptocurrencies including all major coins and most altcoins. New coins are added regularly.
+**ChangeNOW** supports 1300+ cryptocurrencies including all major coins and most altcoins. New coins are added regularly.
 
 **SimpleSwap** supports 700+ coins — slightly less but covers all the essentials.
 

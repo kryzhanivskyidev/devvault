@@ -141,6 +141,13 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"posts": {
+"Semrush Review 2026: Is It Worth It for Developers.md": {
+	id: "Semrush Review 2026: Is It Worth It for Developers.md";
+  slug: "semrush-review-2026-is-it-worth-it-for-developers";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "best-ai-coding-assistants-2026.md": {
 	id: "best-ai-coding-assistants-2026.md";
   slug: "best-ai-coding-assistants-2026";
@@ -179,6 +186,27 @@ declare module 'astro:content' {
 "changenow-review-2026.md": {
 	id: "changenow-review-2026.md";
   slug: "changenow-review-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"changenow-vs-simpleswap-2026.md": {
+	id: "changenow-vs-simpleswap-2026.md";
+  slug: "changenow-vs-simpleswap-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"cloudpanel-review-2026.md": {
+	id: "cloudpanel-review-2026.md";
+  slug: "cloudpanel-review-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"cloudpanel-vs-cpanel-2026.md": {
+	id: "cloudpanel-vs-cpanel-2026.md";
+  slug: "cloudpanel-vs-cpanel-2026";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
@@ -263,6 +291,13 @@ declare module 'astro:content' {
 "nordvpn-vs-surfshark-2026.md": {
 	id: "nordvpn-vs-surfshark-2026.md";
   slug: "nordvpn-vs-surfshark-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"semrush vs Ahrefs 2026: Which SEO Tool Is Better for Developers.md": {
+	id: "semrush vs Ahrefs 2026: Which SEO Tool Is Better for Developers.md";
+  slug: "semrush-vs-ahrefs-2026-which-seo-tool-is-better-for-developers";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">

@@ -26,7 +26,7 @@ ChangeNOW is a non-custodial instant crypto exchange that lets you swap between 
 
 | Feature | Details |
 |---|---|
-| **Supported coins** | 850+ |
+| **Supported coins** | 1300+ |
 | **KYC required** | No (for standard swaps) |
 | **Swap speed** | 2–20 minutes |
 | **Custodial** | No — funds go directly to your wallet |
@@ -37,7 +37,7 @@ ChangeNOW is a non-custodial instant crypto exchange that lets you swap between 
 
 - ✅ No registration required
 - ✅ Non-custodial — you keep control of your funds
-- ✅ Supports 850+ coins including BTC, ETH, USDT, SOL
+- ✅ Supports 1300+ coins including BTC, ETH, USDT, SOL
 - ✅ Clean, simple interface
 - ✅ Fixed and floating rate options
 - ✅ Available as API for developers
@@ -45,7 +45,6 @@ ChangeNOW is a non-custodial instant crypto exchange that lets you swap between 
 ## Cons
 
 - ❌ Rates not always the best vs DEXes
-- ❌ Limited customer support
 - ❌ No fiat on/off ramp
 
 ---
