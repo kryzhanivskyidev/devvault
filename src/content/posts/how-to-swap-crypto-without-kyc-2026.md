@@ -27,7 +27,7 @@ KYC verification has become standard on centralized exchanges — but not everyo
 
 ### 1. ChangeNOW — Best for Instant Swaps
 
-ChangeNOW allows swaps between 850+ coins with zero registration and no KYC for standard amounts.
+ChangeNOW allows swaps between 1300+ coins with zero registration and no KYC for standard amounts.
 
 1. Visit <a href="https://changenow.app.link/referral?link_id=0fde017609d5ce" target="_blank" rel="noopener noreferrer">ChangeNOW</a>
 2. Select your swap pair (e.g. BTC → ETH)
