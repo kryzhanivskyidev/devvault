@@ -218,6 +218,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"how to Use Semrush for Affiliate Websites in 2026.md": {
+	id: "how to Use Semrush for Affiliate Websites in 2026.md";
+  slug: "how-to-use-semrush-for-affiliate-websites-in-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "how-to-secure-your-crypto-2026.md": {
 	id: "how-to-secure-your-crypto-2026.md";
   slug: "how-to-secure-your-crypto-2026";
