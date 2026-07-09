@@ -102,7 +102,7 @@ Semrush has some real tradeoffs:
 
 So this is not a casual tool. If you only run one tiny website, it may feel like overkill.
 
-<!-- [LINK-4 HERE: add a link to "Semrush Alternatives for Indie Hackers in 2026" right after this section, because this is the natural transition to cheaper or simpler options.] -->
+👉 <a href="https://devvault-9o9.pages.dev/posts/semrush-alternatives-for-indie-hackers-in-2026/" target="_blank" rel="noopener noreferrer">"Semrush Alternatives for Indie Hackers in 2026"</a>
 
 ---
 

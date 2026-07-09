@@ -45,7 +45,7 @@ A good affiliate cluster usually has:
 - one how-to guide,
 - one alternatives article.
 
-That is exactly why internal linking matters: each page supports the others and helps Google understand the theme of the site [web:51][web:94].
+That is exactly why internal linking matters: each page supports the others and helps Google understand the theme of the site.
 
 👉 <a href="https://devvault-9o9.pages.dev/posts/semrush-vs-ahrefs-2026-which-seo-tool-is-better-for-developers/" target="_blank" rel="noopener noreferrer">"Semrush vs Ahrefs 2026"</a>
 
@@ -97,7 +97,7 @@ For example:
 
 Do not use generic text like “click here” or “read more.”
 
-<!-- [LINK-4 HERE: link to "Semrush Alternatives for Indie Hackers in 2026" at the end of this section, because the reader is naturally moving toward tool alternatives.] -->
+👉 <a href="https://devvault-9o9.pages.dev/posts/semrush-alternatives-for-indie-hackers-in-2026/" target="_blank" rel="noopener noreferrer">"Semrush Alternatives for Indie Hackers in 2026"</a>
 
 ---
 

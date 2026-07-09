@@ -84,7 +84,7 @@ If you are a developer running affiliate or niche content sites, Semrush fits th
 
 Ahrefs is cleaner and often easier to navigate. Semrush is broader and more feature-heavy. That is why it works well if you are building a system around content, not just checking backlinks.
 
-<!-- [LINK-4 HERE: add a link to "Semrush Alternatives for Indie Hackers in 2026" here, because the next decision is whether you need a simpler or cheaper tool.] -->
+<!-- 👉 <a href="https://devvault-9o9.pages.dev/posts/semrush-alternatives-for-indie-hackers-in-2026/" target="_blank" rel="noopener noreferrer">"Semrush Alternatives for Indie Hackers in 2026"</a> -->
 
 ---
 
