@@ -141,180 +141,187 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"posts": {
+"2026-07-10__best-tools-for-affiliate-marketers-in-2026-a-practical-developer-stack.md": {
+	id: "2026-07-10__best-tools-for-affiliate-marketers-in-2026-a-practical-developer-stack.md";
+  slug: "2026-07-10__best-tools-for-affiliate-marketers-in-2026-a-practical-developer-stack";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "best-ai-coding-assistants-2026.md": {
 	id: "best-ai-coding-assistants-2026.md";
   slug: "best-ai-coding-assistants-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "best-crypto-hardware-wallets-2026.md": {
 	id: "best-crypto-hardware-wallets-2026.md";
   slug: "best-crypto-hardware-wallets-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "best-hosting-for-developers-2026.md": {
 	id: "best-hosting-for-developers-2026.md";
   slug: "best-hosting-for-developers-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "best-password-managers-developers-2026.md": {
 	id: "best-password-managers-developers-2026.md";
   slug: "best-password-managers-developers-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "best-vpns-for-developers-2026.md": {
 	id: "best-vpns-for-developers-2026.md";
   slug: "best-vpns-for-developers-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "changenow-review-2026.md": {
 	id: "changenow-review-2026.md";
   slug: "changenow-review-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "changenow-vs-simpleswap-2026.md": {
 	id: "changenow-vs-simpleswap-2026.md";
   slug: "changenow-vs-simpleswap-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "cloudpanel-review-2026.md": {
 	id: "cloudpanel-review-2026.md";
   slug: "cloudpanel-review-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "cloudpanel-vs-cpanel-2026.md": {
 	id: "cloudpanel-vs-cpanel-2026.md";
   slug: "cloudpanel-vs-cpanel-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "deploy-app-digitalocean-2026.md": {
 	id: "deploy-app-digitalocean-2026.md";
   slug: "deploy-app-digitalocean-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "digitalocean-vs-aws-vs-vercel-2026.md": {
 	id: "digitalocean-vs-aws-vs-vercel-2026.md";
   slug: "digitalocean-vs-aws-vs-vercel-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "how to Use Semrush for Affiliate Websites in 2026.md": {
 	id: "how to Use Semrush for Affiliate Websites in 2026.md";
   slug: "how-to-use-semrush-for-affiliate-websites-in-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "how-to-secure-your-crypto-2026.md": {
 	id: "how-to-secure-your-crypto-2026.md";
   slug: "how-to-secure-your-crypto-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "how-to-swap-crypto-without-kyc-2026.md": {
 	id: "how-to-swap-crypto-without-kyc-2026.md";
   slug: "how-to-swap-crypto-without-kyc-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "ledger-nano-s-plus-vs-nano-x-2026.md": {
 	id: "ledger-nano-s-plus-vs-nano-x-2026.md";
   slug: "ledger-nano-s-plus-vs-nano-x-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "ledger-review-2026.md": {
 	id: "ledger-review-2026.md";
   slug: "ledger-review-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "ledger-setup-guide-2026.md": {
 	id: "ledger-setup-guide-2026.md";
   slug: "ledger-setup-guide-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "make-com-review-2026.md": {
 	id: "make-com-review-2026.md";
   slug: "make-com-review-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "make-vs-n8n-automation-2026.md": {
 	id: "make-vs-n8n-automation-2026.md";
   slug: "make-vs-n8n-automation-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "make-vs-zapier-2026.md": {
 	id: "make-vs-zapier-2026.md";
   slug: "make-vs-zapier-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "nordvpn-dev-server-setup-2026.md": {
 	id: "nordvpn-dev-server-setup-2026.md";
   slug: "nordvpn-dev-server-setup-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "nordvpn-vs-surfshark-2026.md": {
 	id: "nordvpn-vs-surfshark-2026.md";
   slug: "nordvpn-vs-surfshark-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "semrush Alternatives for Indie Hackers in 2026.md": {
 	id: "semrush Alternatives for Indie Hackers in 2026.md";
   slug: "semrush-alternatives-for-indie-hackers-in-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "semrush Review 2026.md": {
 	id: "semrush Review 2026.md";
   slug: "semrush-review-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "semrush vs Ahrefs 2026: Which SEO Tool Is Better for Developers.md": {
 	id: "semrush vs Ahrefs 2026: Which SEO Tool Is Better for Developers.md";
   slug: "semrush-vs-ahrefs-2026-which-seo-tool-is-better-for-developers";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 };
 
@@ -326,5 +333,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("../../src/content/config.js");
 }
