@@ -141,13 +141,6 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"posts": {
-"2026-07-10__best-tools-for-affiliate-marketers-in-2026-a-practical-developer-stack.md": {
-	id: "2026-07-10__best-tools-for-affiliate-marketers-in-2026-a-practical-developer-stack.md";
-  slug: "2026-07-10__best-tools-for-affiliate-marketers-in-2026-a-practical-developer-stack";
-  body: string;
-  collection: "posts";
-  data: InferEntrySchema<"posts">
-} & { render(): Render[".md"] };
 "best-ai-coding-assistants-2026.md": {
 	id: "best-ai-coding-assistants-2026.md";
   slug: "best-ai-coding-assistants-2026";
@@ -172,6 +165,13 @@ declare module 'astro:content' {
 "best-password-managers-developers-2026.md": {
 	id: "best-password-managers-developers-2026.md";
   slug: "best-password-managers-developers-2026";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"best-tools-for-affiliate-marketers-in-2026-a-practical-developer-stack.md": {
+	id: "best-tools-for-affiliate-marketers-in-2026-a-practical-developer-stack.md";
+  slug: "best-tools-for-affiliate-marketers-in-2026-a-practical-developer-stack";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
