@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://devvault.io/sitemap-index.xml
+Sitemap: https://devvault-9o9.pages.dev/sitemap.xml
