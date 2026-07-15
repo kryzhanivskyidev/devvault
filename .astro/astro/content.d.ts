@@ -267,6 +267,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"make-com-for-affiliate-marketers-9-automations-worth-building.md": {
+	id: "make-com-for-affiliate-marketers-9-automations-worth-building.md";
+  slug: "make-com-for-affiliate-marketers-9-automations-worth-building";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "make-com-review-2026.md": {
 	id: "make-com-review-2026.md";
   slug: "make-com-review-2026";
