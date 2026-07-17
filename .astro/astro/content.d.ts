@@ -302,6 +302,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"nordvpn-review-2026-is-it-worth-it-for-crypto-users-and-developers.md": {
+	id: "nordvpn-review-2026-is-it-worth-it-for-crypto-users-and-developers.md";
+  slug: "nordvpn-review-2026-is-it-worth-it-for-crypto-users-and-developers";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "nordvpn-vs-surfshark-2026.md": {
 	id: "nordvpn-vs-surfshark-2026.md";
   slug: "nordvpn-vs-surfshark-2026";
