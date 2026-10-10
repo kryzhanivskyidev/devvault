@@ -146,287 +146,301 @@ declare module 'astro:content' {
   slug: "best-ai-coding-assistants-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "best-crypto-hardware-wallets-2026.md": {
 	id: "best-crypto-hardware-wallets-2026.md";
   slug: "best-crypto-hardware-wallets-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "best-crypto-security-stack-for-beginners-in-2026.md": {
 	id: "best-crypto-security-stack-for-beginners-in-2026.md";
   slug: "best-crypto-security-stack-for-beginners-in-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "best-hosting-for-developers-2026.md": {
 	id: "best-hosting-for-developers-2026.md";
   slug: "best-hosting-for-developers-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "best-password-managers-developers-2026.md": {
 	id: "best-password-managers-developers-2026.md";
   slug: "best-password-managers-developers-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "best-tools-for-affiliate-marketers-in-2026-a-practical-developer-stack.md": {
 	id: "best-tools-for-affiliate-marketers-in-2026-a-practical-developer-stack.md";
   slug: "best-tools-for-affiliate-marketers-in-2026-a-practical-developer-stack";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "best-vpns-for-developers-2026.md": {
 	id: "best-vpns-for-developers-2026.md";
   slug: "best-vpns-for-developers-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "binance-review-2026-is-it-a-good-crypto-exchange-for-beginners.md": {
 	id: "binance-review-2026-is-it-a-good-crypto-exchange-for-beginners.md";
   slug: "binance-review-2026-is-it-a-good-crypto-exchange-for-beginners";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "binance-vs-bybit-2026-which-exchange-fits-your-crypto-workflow.md": {
 	id: "binance-vs-bybit-2026-which-exchange-fits-your-crypto-workflow.md";
   slug: "binance-vs-bybit-2026-which-exchange-fits-your-crypto-workflow";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "bybit-review-2026-what-active-crypto-users-should-know.md": {
 	id: "bybit-review-2026-what-active-crypto-users-should-know.md";
   slug: "bybit-review-2026-what-active-crypto-users-should-know";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "changenow-review-2026-simple-crypto-swaps-without-traditional-trading-screens.md": {
 	id: "changenow-review-2026-simple-crypto-swaps-without-traditional-trading-screens.md";
   slug: "changenow-review-2026-simple-crypto-swaps-without-traditional-trading-screens";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "changenow-review-2026.md": {
 	id: "changenow-review-2026.md";
   slug: "changenow-review-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "changenow-vs-simpleswap-2026.md": {
 	id: "changenow-vs-simpleswap-2026.md";
   slug: "changenow-vs-simpleswap-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "cloudpanel-review-2026.md": {
 	id: "cloudpanel-review-2026.md";
   slug: "cloudpanel-review-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "cloudpanel-vs-cpanel-2026.md": {
 	id: "cloudpanel-vs-cpanel-2026.md";
   slug: "cloudpanel-vs-cpanel-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "crypto-exchange-safety-checklist-before-you-deposit-trade-or-withdraw.md": {
 	id: "crypto-exchange-safety-checklist-before-you-deposit-trade-or-withdraw.md";
   slug: "crypto-exchange-safety-checklist-before-you-deposit-trade-or-withdraw";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "deploy-app-digitalocean-2026.md": {
 	id: "deploy-app-digitalocean-2026.md";
   slug: "deploy-app-digitalocean-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "digitalocean-vs-aws-vs-vercel-2026.md": {
 	id: "digitalocean-vs-aws-vs-vercel-2026.md";
   slug: "digitalocean-vs-aws-vs-vercel-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "hosting-stack-for-affiliate-websites-vps-panels-speed-and-monitoring.md": {
 	id: "hosting-stack-for-affiliate-websites-vps-panels-speed-and-monitoring.md";
   slug: "hosting-stack-for-affiliate-websites-vps-panels-speed-and-monitoring";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "how to Use Semrush for Affiliate Websites in 2026.md": {
 	id: "how to Use Semrush for Affiliate Websites in 2026.md";
   slug: "how-to-use-semrush-for-affiliate-websites-in-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "how-to-build-an-affiliate-website-workflow-with-semrush-and-make-com.md": {
 	id: "how-to-build-an-affiliate-website-workflow-with-semrush-and-make-com.md";
   slug: "how-to-build-an-affiliate-website-workflow-with-semrush-and-make-com";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "how-to-secure-your-crypto-2026.md": {
 	id: "how-to-secure-your-crypto-2026.md";
   slug: "how-to-secure-your-crypto-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "how-to-swap-crypto-without-kyc-2026.md": {
 	id: "how-to-swap-crypto-without-kyc-2026.md";
   slug: "how-to-swap-crypto-without-kyc-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "ledger-nano-s-plus-vs-nano-x-2026.md": {
 	id: "ledger-nano-s-plus-vs-nano-x-2026.md";
   slug: "ledger-nano-s-plus-vs-nano-x-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "ledger-review-2026-hardware-wallet-guide-for-developers-and-indie-hackers.md": {
 	id: "ledger-review-2026-hardware-wallet-guide-for-developers-and-indie-hackers.md";
   slug: "ledger-review-2026-hardware-wallet-guide-for-developers-and-indie-hackers";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "ledger-review-2026.md": {
 	id: "ledger-review-2026.md";
   slug: "ledger-review-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "ledger-setup-guide-2026.md": {
 	id: "ledger-setup-guide-2026.md";
   slug: "ledger-setup-guide-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "ledger-vs-trezor-2026-which-hardware-wallet-should-you-choose.md": {
 	id: "ledger-vs-trezor-2026-which-hardware-wallet-should-you-choose.md";
   slug: "ledger-vs-trezor-2026-which-hardware-wallet-should-you-choose";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "make-com-for-affiliate-marketers-9-automations-worth-building.md": {
 	id: "make-com-for-affiliate-marketers-9-automations-worth-building.md";
   slug: "make-com-for-affiliate-marketers-9-automations-worth-building";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "make-com-review-2026.md": {
 	id: "make-com-review-2026.md";
   slug: "make-com-review-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "make-vs-n8n-automation-2026.md": {
 	id: "make-vs-n8n-automation-2026.md";
   slug: "make-vs-n8n-automation-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "make-vs-zapier-2026.md": {
 	id: "make-vs-zapier-2026.md";
   slug: "make-vs-zapier-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "nordvpn-dev-server-setup-2026.md": {
 	id: "nordvpn-dev-server-setup-2026.md";
   slug: "nordvpn-dev-server-setup-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "nordvpn-review-2026-is-it-worth-it-for-crypto-users-and-developers.md": {
 	id: "nordvpn-review-2026-is-it-worth-it-for-crypto-users-and-developers.md";
   slug: "nordvpn-review-2026-is-it-worth-it-for-crypto-users-and-developers";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "nordvpn-vs-surfshark-2026.md": {
 	id: "nordvpn-vs-surfshark-2026.md";
   slug: "nordvpn-vs-surfshark-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "semrush Alternatives for Indie Hackers in 2026.md": {
 	id: "semrush Alternatives for Indie Hackers in 2026.md";
   slug: "semrush-alternatives-for-indie-hackers-in-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "semrush Review 2026.md": {
 	id: "semrush Review 2026.md";
   slug: "semrush-review-2026";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "semrush vs Ahrefs 2026: Which SEO Tool Is Better for Developers.md": {
 	id: "semrush vs Ahrefs 2026: Which SEO Tool Is Better for Developers.md";
   slug: "semrush-vs-ahrefs-2026-which-seo-tool-is-better-for-developers";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "trezor-review-2026-a-practical-hardware-wallet-for-long-term-crypto-storage.md": {
 	id: "trezor-review-2026-a-practical-hardware-wallet-for-long-term-crypto-storage.md";
   slug: "trezor-review-2026-a-practical-hardware-wallet-for-long-term-crypto-storage";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"whitebit-fees-explained-2026-what-to-check-before-you-trade.md": {
+	id: "whitebit-fees-explained-2026-what-to-check-before-you-trade.md";
+  slug: "whitebit-fees-explained-2026-what-to-check-before-you-trade";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"whitebit-for-beginners-a-safe-first-week-setup-checklist.md": {
+	id: "whitebit-for-beginners-a-safe-first-week-setup-checklist.md";
+  slug: "whitebit-for-beginners-a-safe-first-week-setup-checklist";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "whitebit-in-2026-why-european-crypto-users-should-put-it-on-their-shortlist.md": {
 	id: "whitebit-in-2026-why-european-crypto-users-should-put-it-on-their-shortlist.md";
   slug: "whitebit-in-2026-why-european-crypto-users-should-put-it-on-their-shortlist";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "whitebit-review-2026-exchange-guide-for-european-crypto-users.md": {
 	id: "whitebit-review-2026-exchange-guide-for-european-crypto-users.md";
   slug: "whitebit-review-2026-exchange-guide-for-european-crypto-users";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 };
 
@@ -438,5 +452,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("../../src/content/config.js");
 }
