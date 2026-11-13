@@ -1,7 +1,7 @@
 ---
 title: "CEX vs DEX in 2026: What Beginners Should Understand Before Moving Money"
 description: "CEX vs DEX for beginners in 2026: compare custody, KYC, liquidity, fees, recovery, smart-contract risk, and when WhiteBIT fits the workflow."
-excerpt: "A centralized exchange and a decentralized exchange solve different problems—and fail in different ways."
+excerpt: "A centralized exchange and a decentralized exchange solve different problems - and fail in different ways."
 date: "2026-11-15"
 category: crypto
 tags: ["cex", "dex", "whitebit", "self-custody", "smart-contract-risk"]
@@ -106,4 +106,4 @@ A CEX and a DEX are tools, not ideologies. WhiteBIT can make the fiat and spot s
 
 </div>
 
-*Risk note: Crypto assets are volatile, transfers can be irreversible, and availability varies by country. This article is educational, not investment, tax, or legal advice.*
+_Risk note: Crypto assets are volatile, transfers can be irreversible, and availability varies by country. This article is educational, not investment, tax, or legal advice._
